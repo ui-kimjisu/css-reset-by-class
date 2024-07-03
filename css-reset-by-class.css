@@ -28,9 +28,6 @@
 :where(hr[class], button[class], fieldset[class], iframe[class], input[class], select[class], textarea[class]) {
     border: 0;
 }
-:where(button[class], dialog[class], input[class], mark[class], meter[class], progress[class]) {
-    background-color: transparent;
-}
 :where(table[class]) {
     border-collapse: collapse;
     border-spacing: 0;
